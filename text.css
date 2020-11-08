@@ -6,3 +6,6 @@ body {
   font-size: 1.3em;
   text-shadow: 5px 5px yellow;
 }
+li{
+  list-style-image: url(//lorempixel.com/output/abstract-q-c-16-16-1.jpg);
+}
