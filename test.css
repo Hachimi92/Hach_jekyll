@@ -2,4 +2,7 @@ body {
   background: yellow;
 }
 
- 
+ div{
+  font-size: 1.3em;
+  text-shadow: 5px 5px silver;
+}
