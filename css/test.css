@@ -4,13 +4,11 @@ background-image: url("https://lls-media-public.s3-eu-west-1.amazonaws.com/physi
 }
 
 h1 {
-		color: white;
+		color: black;
 	}
 P {
-           color: white;
+           color: black;
 }
-header {
-          color: white;
-}
-h2 {color: yellow;
+
+h2 {color: green;
 	}
