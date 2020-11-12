@@ -1,1 +1,16 @@
+body {
 
+background-image: url("https://lls-media-public.s3-eu-west-1.amazonaws.com/physique-chimie-cycle-4/la-matiere-dans-l-espace-et-dans-l-univers/spc.t1.1.ouv.galaxy.jpg");
+}
+
+h1 {
+		color: white;
+	}
+P {
+           color: white;
+}
+header {
+          color: white;
+}
+h2 {color: yellow;
+	}
